@@ -1,0 +1,16 @@
+@mixin centerBlock {
+  margin: 0 auto;
+  padding: 0 2rem;
+  max-width: 1170px;
+}
+
+@mixin sectionPadding {
+  padding: 5rem 2rem;
+}
+
+@mixin img {
+  height: 100%;
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}

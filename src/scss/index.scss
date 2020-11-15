@@ -1,0 +1,19 @@
+// abstracts
+@import './abstracts/mixins';
+
+// base
+@import './base/base';
+@import './base/typography';
+
+// components
+
+// layout
+@import './layout/footer';
+@import './layout/header';
+@import './layout/main';
+
+// sections
+@import './sections/advantages';
+@import './sections/characteristics';
+@import './sections/forwhom';
+@import './sections/landing';
